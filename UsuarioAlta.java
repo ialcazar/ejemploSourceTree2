@@ -6,6 +6,10 @@ public class UsuarioAlta {
 	public String getApellidos(){}
 	public int getEdad(){}
 	
+
 	public String rama1(){}
+
+	public String getNombres(){}
+
 	
 }
